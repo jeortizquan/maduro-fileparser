@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record reference="164189">
+        <accountNumber>NL32RABO0195610843</accountNumber>
+        <description>Flowers for Vincent Theuß</description>
+        <startBalance>72.33</startBalance>
+        <mutation>-23.47</mutation>
+        <endBalance>48.86</endBalance>
+    </record>
+    <record reference="166703">
+        <accountNumber>NL32RABO0195610843</accountNumber>
+        <description>Flowers from Richard de Vries</description>
+        <startBalance>5429</startBalance>
+        <mutation>-939</mutation>
+        <endBalance>6368</endBalance>
+    </record>
+    <record reference="149660">
+        <accountNumber>NL27SNSB0917829871</accountNumber>
+        <description>Flowers for Richard Theuß</description>
+        <startBalance>90.04</startBalance>
+        <mutation>-7.77</mutation>
+        <endBalance>82.27</endBalance>
+    </record>
+    <record reference="170284">
+        <accountNumber>NL90ABNA0585647886</accountNumber>
+        <description>Candy from Erik King</description>
+        <startBalance>108.93</startBalance>
+        <mutation>+42.53</mutation>
+        <endBalance>151.46</endBalance>
+    </record>
+    <record reference="157064">
+        <accountNumber>NL32RABO0195610843</accountNumber>
+        <description>Candy for Peter King</description>
+        <startBalance>34.08</startBalance>
+        <mutation>-11.52</mutation>
+        <endBalance>22.56</endBalance>
+    </record>
+</records>
